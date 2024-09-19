@@ -1,2 +1,0 @@
-larissashowdomilhao/bin
-larissashowdomilhao/obj
