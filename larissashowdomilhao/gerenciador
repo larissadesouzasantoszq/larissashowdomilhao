@@ -1,0 +1,36 @@
+public class gerenciador
+{
+
+}
+    public int ponnacão {get;private set ;}
+int nivel atual = 0;
+void inicializar ()
+{
+    ponuacao = 0;
+    nivelatual = 0;
+    proximaQuestao();
+}
+public async void verifica correta (int RR)
+{
+    if (questao corrente.Esta correto (RR))
+}
+    await iask . Delay (1000);
+    AdicionaPontuação (nivel atual);
+    nivelatual ++;
+    proximaQuestao ();
+{
+    else
+}
+       await DisplayAlert("Game Over","Voce perdeu!","ok");
+       inicializar () ;
+{
+    void AdicionaPontuação (int N)
+}
+//vazio por enquanto 
+{
+    if (n= =1)
+     pontuacao =1000;
+    else if (n==2)
+     pontuacao = 2000;
+     else if (n==3)
+}
