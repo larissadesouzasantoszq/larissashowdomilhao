@@ -33,4 +33,19 @@ public async void verifica correta (int RR)
     else if (n==2)
      pontuacao = 2000;
      else if (n==3)
+     pontuacao =5000;
+     else if (n==4)
+     pontuacao =10 000;
+     else if (n==5)
+     pontuacao =20 000;
+     else if (n==6)
+     pontuacao =50 000;
+     else if (n==7)
+     pontuacao =100 000;
+     else if (n==8)
+     pontuacao 200 000;
+     else if (n==9)
+     pontuacao =500 000;
+     else 
+      pontuacao=1000 000;
 }
